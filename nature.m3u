@@ -1,0 +1,41 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+
+
+
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+http://188.113.190.12/178/video.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Love Nature 4K
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
+
+
+#EXTINF:-1 group-title="Познавательные",Animal Planet 1
+http://edge04.beetv.kz/btv/SWM/Animal_planet/Animal_planet_576p_2000kbps.m3u8
+
+#EXTINF:0 audio-track="rus",Animal Planet 2   HD [Langamepp]
+http://langamepp.com/chtst/17324235BC723D19218D2C1AA83BC893250275028B4241784FE4417BC44BA4F27957365DD8294F6C0ABE426EF5
+
+
+
+
+#EXTINF:-1 group-title="Познавательные",Техно 24
+http://185.74.7.220:8080/techno_24/index.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные",HD Life = HDL
+http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Ocean TV
+http://91.192.168.242:9091
+
+
+
+
+
+
+
+
+
+
+
