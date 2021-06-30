@@ -1,38 +1,34 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Познавательные;HD" tvg-id="15.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/15.png" tvg-name="Nat Geo Wild HD",Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://37.235.200.88:81/udp/225.50.71.15:1234
 
-#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD 2
 http://188.113.190.12/178/video.m3u8
-
-#EXTINF:-1 group-title="Познавательные",Love Nature 4K
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
-
-
-#EXTINF:-1 group-title="Познавательные",Animal Planet 1
-http://edge04.beetv.kz/btv/SWM/Animal_planet/Animal_planet_576p_2000kbps.m3u8
-
-#EXTINF:0 audio-track="rus",Animal Planet 2   HD [Langamepp]
-http://langamepp.com/chtst/17324235BC723D19218D2C1AA83BC893250275028B4241784FE4417BC44BA4F27957365DD8294F6C0ABE426EF5
-
-
 
 
 #EXTINF:-1 group-title="Познавательные",Техно 24
 http://185.74.7.220:8080/techno_24/index.m3u8
 
 
+#EXTINF:-1 group-title="Познавательные" tvg-id="58.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/58.png" tvg-name="Наука 2.0",Наука 2.0
+#EXTGRP:Познавательные
+http://5.130.1.116:81/udp/239.1.5.18:1234
+
+#EXTINF:-1 group-title="Познавательные;HD" tvg-id="221.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/221.png" tvg-name="RTG HD",RTG HD
+#EXTGRP:Познавательные
+https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
+
+7)
 #EXTINF:-1 group-title="Познавательные",HD Life = HDL
 http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
 
+8)
 #EXTINF:-1 group-title="Познавательные",Ocean TV
 http://91.192.168.242:9091
-
-
-
-
-
 
 
 
