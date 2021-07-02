@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:0,Nat Geo WILD
+http://46.181.253.78:81/udp/239.255.42.36:1234
+
 #EXTINF:-1 group-title="Познавательные;HD" tvg-id="15.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/15.png" tvg-name="Nat Geo Wild HD",Nat Geo Wild HD
 #EXTGRP:Познавательные
 http://37.235.200.88:81/udp/225.50.71.15:1234
