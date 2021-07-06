@@ -12,6 +12,7 @@ http://94.124.247.85:81/udp/239.195.4.87:1234
 #EXTINF:-1,Zoo TV
 http://94.124.247.85:81/udp/239.195.4.85:1234s
 
+
 #EXTINF:-1 group-title="Познавательные;HD" tvg-id="221.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/221.png" tvg-name="RTG HD",RTG HD
 #EXTGRP:Познавательные
 https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
@@ -21,21 +22,5 @@ https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
 http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
 
 
-
-
 #EXTINF:-1 group-title="Познавательные",Техно 24
 http://185.74.7.220:8080/techno_24/index.m3u8
-
-
-#EXTINF:-1,Наука
-http://94.124.247.85:81/udp/239.195.4.88:1234
-
-#EXTINF:-1,Техно 24
-http://94.124.247.85:81/udp/239.195.4.89:1234
-
-#EXTINF:-1 ,hdl HD
-https://sc.id-tv.kz/hdl_34_35.m3u8
-
-#EXTINF:-1 ,HDL HD
-https://sc.id-tv.kz/hdl_38_39.m3u8
-
