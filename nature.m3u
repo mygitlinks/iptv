@@ -24,3 +24,8 @@ http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
 
 #EXTINF:-1 group-title="Познавательные",Техно 24
 http://185.74.7.220:8080/techno_24/index.m3u8
+
+#EXTINF:-1 ,HDL 2
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:-1 ,HDL 3
+https://sc.id-tv.kz/hdl_38_39.m3u8
