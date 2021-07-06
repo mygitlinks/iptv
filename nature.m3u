@@ -1,14 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Познавательные",HD Life = HDL
+http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
+
 
 #EXTINF:0,Nat Geo WILD
 http://46.181.253.78:81/udp/239.255.42.36:1234
 
 
-#EXTINF:-1 group-title="Познавательные",HD Life = HDL
-http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
+#EXTINF:-1,Домашние животные
+http://94.124.247.85:81/udp/239.195.4.87:1234
+
+
+#EXTINF:-1,Zoo TV
+http://94.124.247.85:81/udp/239.195.4.85:1234s
 
 
 #EXTINF:-1 group-title="Познавательные;HD" tvg-id="221.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/221.png" tvg-name="RTG HD",RTG HD
 #EXTGRP:Познавательные
 https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные",Техно 24
+http://185.74.7.220:8080/techno_24/index.m3u8
